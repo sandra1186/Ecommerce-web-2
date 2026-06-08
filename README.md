@@ -102,7 +102,7 @@ ecommerce-store/
 |------------|-----------------------------|
 | Runtime    | Node.js                     |
 | Framework  | Express.js                  |
-| Database   | MongoDB + Mongoose          |
+| Database   | supabase          |
 | Templating | EJS                         |
 | Auth       | bcryptjs + express-session  |
 | Upload     | Multer                      |
